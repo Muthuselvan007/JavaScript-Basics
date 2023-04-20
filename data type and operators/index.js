@@ -28,6 +28,9 @@ console.log('this is a type of '+ typeof 1234);
 //undefined
 let run
 console.log(run);
+let walk
+
+console.log(walk);
 
 // Null
 const box = null
